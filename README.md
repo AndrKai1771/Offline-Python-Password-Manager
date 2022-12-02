@@ -2,3 +2,4 @@
 Ever Felt The Need Of A Password Manager... Well Here I Am 
 (Well This Is My First Ever 'Official' Program)
 (So Pardon My Any Mistake)
+(Soon Updating Instructions On Usage Of Code)
