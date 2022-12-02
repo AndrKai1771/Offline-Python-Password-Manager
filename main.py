@@ -91,8 +91,7 @@ while True:
                 pass_algs.data_retriever()          
 
             elif option == 5:
-
-                print('\nThanks For Using Our Program\nMade By Abdul Aleem Sarfaraz And Bhavya Bhatt Of Class 12-A\nSpecial Thanks To Aditya Pandey And Aviral Chaudhary\n')
+                
                 break
 
             else:
